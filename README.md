@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Assignmnet 3
+
+    Show a list of countries as bootstrap cards
 
 ## Available Scripts
 
